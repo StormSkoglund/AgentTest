@@ -11,4 +11,4 @@ A React + Vite dashboard that pulls live data from [PokéAPI](https://pokeapi.co
 
 ## Deployment
 
-GitHub Pages deployment is configured through `.github/workflows/deploy.yml` and uses the repository name as the Vite base path.
+GitHub Pages deployment is configured through `.github/workflows/deploy.yml` and uses the repository name as the Vite base path 😃
